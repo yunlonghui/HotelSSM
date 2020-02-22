@@ -1,0 +1,7 @@
+项目开发环境：jdk1.7和1.8都可以  tomcat7.0 mysql5.7
+
+开发工具下载地址：http://programmer.ischoolbar.com/index.php/article/article/id/9.html
+
+
+
+搭建基础环境教程：http://programmer.ischoolbar.com/index.php/article/article/id/169.html
